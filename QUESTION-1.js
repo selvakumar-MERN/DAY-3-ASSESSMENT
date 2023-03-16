@@ -52,6 +52,6 @@ for(let x of Object.keys(favoritemovies)){
 }
 console.log("Using for each")
 Object.keys(favoritemovies).forEach(key => console.log("My favorite "+key+" movie is "+ favoritemovies[key]))
-  
+ //OUTPUT: IMAGE FILES HAS BEEN ADDED. 
 
 
