@@ -1,3 +1,5 @@
+//1. For the given JSON ITERATE OVER ALL FOR LOOP(FOR,FOR IN,FOR OF, FOR EACH)
+
 var favoritemovies={
     "action":"edge of tommorrow",
     "adventure":["lord of the rings","mad max furry road","indiana jones"],
