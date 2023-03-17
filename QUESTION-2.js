@@ -39,4 +39,5 @@ var resume={
  
 
 }
+console.log(resume);
 //OUTPUT: IMAGE ADDED.
